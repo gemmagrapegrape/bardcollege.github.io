@@ -1,7 +1,7 @@
 body {
     background-color: rgb(12, 29, 84);
     color: linen;
-    font-size: 150%;
+    font-size: 199%;
     line-height: 1.4;
 }
 
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(180, 10, 200);
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(50, 11, 63);
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(99, 11, 100);
     text-decoration: none;
 }
 
@@ -40,15 +40,15 @@ img{
 
 .headshot{
     float:right;
-    height: 360px;
+    height: 300px;
     padding-top:0px;
 }
 
 .textbox {
     width:70%;
-    color: white;
+    color: blue;
     font-size: 110%;
-    background:gray;
+    background:purple;
     padding: 4px;
     border:1px solid white;
 }
