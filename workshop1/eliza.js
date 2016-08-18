@@ -221,6 +221,12 @@ var rules = {
     "What is it you really want to know?",
     "What do you think?",
     "What comes to your mind when you ask that?",
+], 
+"~*x definetley means ~*y": [ 
+   "Are you serious?",
+   "What does that really mean to you then?",
+   "What makes you claim that?",
+   "Your favorite band sucks!", 
   ],
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
