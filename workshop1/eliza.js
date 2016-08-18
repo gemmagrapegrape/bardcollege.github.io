@@ -222,7 +222,7 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
 ], 
-"~*x process ~*y": [ 
+"~*x distance ~*y": [ 
    "Are you serious?",
    "What does that really mean to you then?",
    "What makes you claim that?",
